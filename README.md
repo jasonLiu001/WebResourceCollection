@@ -20,9 +20,15 @@ A website guide for all web developers.
 ## Node.js
 1. [http://www.nodejs.net/](http://www.nodejs.net/) Node.js中文社区
 2. [https://cnodejs.org/](https://cnodejs.org/) Node.js中文社区
+3. **NPM**[https://www.npmjs.com/](https://www.npmjs.com/) Nodejs包管理器
+4. **Express**[http://www.expressjs.com.cn/](http://www.expressjs.com.cn/) node.js Web应用框架
 
 ## JavaScript 
 1. **MEAN框架** [http://mean.io/](http://mean.io/) Javascript全栈式开发解决方案
+
+## Web前端框架
+1. **Knockout** [http://knockoutjs.com/](http://knockoutjs.com/) 一个轻量级的MVVM框架
+2. **Bootstrap** [http://www.bootcss.com/](http://www.bootcss.com/) 最受欢迎的 HTML、CSS 和 JS 框架
 
 ## 其他
 1. **hotframeworks** [http://hotframeworks.com/](http://hotframeworks.com/) 当前热门web框架排行
