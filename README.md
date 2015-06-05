@@ -30,8 +30,5 @@ A website guide for all web developers.
 1. **Knockout** [http://knockoutjs.com/](http://knockoutjs.com/) 一个轻量级的MVVM框架
 2. **Bootstrap** [http://www.bootcss.com/](http://www.bootcss.com/) 最受欢迎的 HTML、CSS 和 JS 框架
 
-## 工具包
-1. **Google Closure** [Javascript代码混淆器](https://developers.google.com/closure/compiler/)
-
 ## 其他
 1. **hotframeworks** [http://hotframeworks.com/](http://hotframeworks.com/) 当前热门web框架排行
