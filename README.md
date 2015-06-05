@@ -13,11 +13,11 @@ A website guide for all web developers.
 1. **sourceforge** [http://sourceforge.net/](http://sourceforge.net/) 开源软件存储、协作和发布的平台
 2. **Github** [https://github.com/](https://github.com/) 全球最大的社交编程及代码托管网站
 
-## .NET C#
+## .NET
 1. **codeplex** [http://www.codeplex.com/](http://www.codeplex.com/) 微软的开源工程网站
 2. **MSDN** [https://msdn.microsoft.com/](https://msdn.microsoft.com/) 微软面向软件开发者的信息服务网站
 
-##　Node.js
+## Node.js
 1. [http://www.nodejs.net/](http://www.nodejs.net/) Node.js中文社区
 2. [https://cnodejs.org/](https://cnodejs.org/) Node.js中文社区
 
