@@ -38,5 +38,8 @@ A website guide for all web developers.
 2. **AMD[Asynchronous Module Definition]**  [http://requirejs.org/docs/](http://requirejs.org/docs/) 浏览器端JS开发规范，requireJS为代表
 3. **CMD[Common Module Definition]**  [http://seajs.org/docs/](http://seajs.org/docs/) 浏览器端JS开发规范，seaJS为代表
 
+## Javascript 图书
+1. **ECMAScript 6** [http://es6.ruanyifeng.com/](http://es6.ruanyifeng.com/) ECMAScript 6入门
+
 ## 其他
 1. **hotframeworks** [http://hotframeworks.com/](http://hotframeworks.com/) 当前热门web框架排行
