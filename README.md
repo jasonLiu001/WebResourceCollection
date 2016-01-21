@@ -33,5 +33,10 @@ A website guide for all web developers.
 1. **Knockout** [http://knockoutjs.com/](http://knockoutjs.com/) 一个轻量级的MVVM框架
 2. **Bootstrap** [http://www.bootcss.com/](http://www.bootcss.com/) 最受欢迎的 HTML、CSS 和 JS 框架
 
+## Javascript开发规范
+1. **CommonJS**  [http://www.commonjs.org/](http://www.commonjs.org/) 服务器端JS开发规范,nodeJS为代表
+2. **AMD[Asynchronous Module Definition]**  [http://requirejs.org/docs/](http://requirejs.org/docs/) 浏览器端JS开发规范，requireJS为代表
+3. **CMD[Common Module Definition]**  [http://seajs.org/docs/](http://seajs.org/docs/) 浏览器端JS开发规范，seaJS为代表
+
 ## 其他
 1. **hotframeworks** [http://hotframeworks.com/](http://hotframeworks.com/) 当前热门web框架排行
