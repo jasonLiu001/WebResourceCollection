@@ -1,8 +1,11 @@
-# WebResourceCollection
-A website guide for all web developers.
+# Powerful Website For Learning New Knowledges
+A website collection for web developers.
+
+## 目录
+  + [工具列表](./Tool.md)
 
 ## Web技术导航
-1. **tutorialspoint** [http://www.tutorialspoint.com/](http://www.tutorialspoint.com/web_development_tutorials.htm) 
+1. 很强大的知识学习网站**tutorialspoint** [http://www.tutorialspoint.com/](http://www.tutorialspoint.com/web_development_tutorials.htm) 
 
 ## 技术分享社区
 1. **开源中国** [http://www.oschina.net/](http://www.oschina.net/) 目前中国最大的开源技术社区
