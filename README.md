@@ -2,7 +2,7 @@
 A website collection for web developers.
 
 ## 目录
-  + [工具列表](./Tool.md)
++ [工具列表](./Tool.md)
 
 ## Web技术导航
 1. 很强大的知识学习网站**tutorialspoint** [http://www.tutorialspoint.com/](http://www.tutorialspoint.com/web_development_tutorials.htm) 
